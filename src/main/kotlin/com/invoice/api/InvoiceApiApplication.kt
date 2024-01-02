@@ -1,4 +1,4 @@
-package com.example.invoiceapi
+package com.invoice.api
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
